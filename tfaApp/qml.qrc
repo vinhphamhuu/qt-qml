@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/morning.jpg</file>
+        <file>pages/VHome.qml</file>
+        <file>assets/afternoon.jpg</file>
+        <file>assets/evening.jpg</file>
+        <file>fonts/awesome-font.otf</file>
+        <file>assets/bg.png</file>
+        <file>qml/Glossy.qml</file>
+        <file>assets/bg_new.png</file>
+        <file>pages/VAreas.qml</file>
+        <file>fonts/fontawesome-webfont.ttf</file>
+        <file>pages/VHome/LoveComponent.qml</file>
+        <file>pages/VDashboard.qml</file>
+        <file>pages/VDashboard/DeviceNumberComponent.qml</file>
+        <file>pages/VDashboard/DeviceSumaryStatus.qml</file>
+        <file>assets/header.png</file>
+        <file>assets/header_03.png</file>
+        <file>assets/header_02.png</file>
+        <file>assets/header_01.png</file>
+        <file>pages/VAreas/VImageSlideShow.qml</file>
+        <file>pages/VDeviceDetail.qml</file>
+        <file>pages/VAreas/VDeviceComponent.qml</file>
+        <file>pages/VAreas/VInfoArea.qml</file>
+        <file>pages/VBackBtn.qml</file>
+        <file>assets/devices/fan.svg</file>
+        <file>assets/devices/temp.svg</file>
+        <file>assets/devices/humi.svg</file>
+        <file>assets/devices/camera.svg</file>
+        <file>assets/devices/light.svg</file>
+        <file>assets/areas/area_01.svg</file>
+        <file>assets/areas/area_02.svg</file>
+        <file>assets/areas/area_03.svg</file>
+    </qresource>
+</RCC>
